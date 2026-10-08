@@ -15,8 +15,8 @@
 > como fonte declarada.
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
-| — | | | |
+| :--- | :--- | :--- | :--- |
+| 1 | https://www.datacamp.com/pt/tutorial/python-api | Pesquisando o porquê de Python ser bom para desenvolvimento de API | plan.md |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
