@@ -35,10 +35,11 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 2. o link seja registrado abaixo, indicando **onde** o conteúdo foi usado;
 3. você seja capaz de **explicar qualquer trecho** que a IA produziu — na
    dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
-
+   
 | # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
-| — | | |
+| :--- | :--- | :--- |
+| 1 | https://share.gemini.google/sA0ECQX4ZYCV | Foi usado para apoio no desenvolvimento e na validação dos rascunhos das minhas respostas |
+| 2 | | |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
