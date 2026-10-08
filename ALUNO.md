@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Murilo Barbosa
+Nome: Murilo Silva Barbosa
 
-RA: >>> PREENCHER <<<
+RA: 232721592
 
 Conta GitHub: @musilvab
 
